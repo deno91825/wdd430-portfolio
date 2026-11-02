@@ -2,6 +2,10 @@
 
 A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.
 
+## Live Website
+
+https://wdd430-portfolio-opal.vercel.app/
+
 ## Features
 
 - Responsive home page
@@ -38,10 +42,6 @@ Open http://localhost:3000 in your browser.
 
 - `app/` — Application pages and API routes
 - `components/` — Reusable components
-
-## Deployment
-
-Live portfolio: Add your Vercel URL here after deployment.
 
 ## GitHub Repository
 
