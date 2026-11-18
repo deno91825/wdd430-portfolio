@@ -1,5 +1,6 @@
-
 import ProjectList from "@/components/ProjectList";
+
+export const instant = false;
 
 export default function Home() {
   return (
