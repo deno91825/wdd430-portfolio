@@ -13,6 +13,8 @@ export default async function ProjectList({
       {projects.map((project) => (
         <ProjectCard
           key={project.id}
+          id={project.id}
+          type={project.type}
           title={project.title}
           description={project.description}
           technologies={project.technologies}
